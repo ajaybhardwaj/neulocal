@@ -13,10 +13,16 @@
 @end
 
 @implementation AppDelegate
-
+@synthesize navc,homeViewController;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    homeViewController = [[ViewController alloc] init];
+    navc = [[UINavigationController alloc] initWithRootViewController:homeViewController];
+    
+    self.window.rootViewController = navc;
+    
     return YES;
 }
 

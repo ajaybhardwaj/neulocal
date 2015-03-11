@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+#import "CommonFunctions.h"
 
-@interface LoginViewController : UIViewController
+@interface LoginViewController : UIViewController <UITextFieldDelegate> {
+    
+    UITextField *emailField,*passwordField;
+    UIButton *loginButton,*forgotPasswordbutton;
+}
 
 @end

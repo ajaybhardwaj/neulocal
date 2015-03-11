@@ -7,8 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+#import "LoginViewController.h"
+#import "SignUpViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController {
+    
+    UIButton *facebookLoginButton, *twitterLoginButton, *emailLoginButton, *signupButton;
+    UIImageView *logoImageView;
+}
 
 
 @end

@@ -14,6 +14,29 @@
 		FE1A59761AAFE32500CF37AA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59751AAFE32500CF37AA /* Images.xcassets */; };
 		FE1A59791AAFE32500CF37AA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59771AAFE32500CF37AA /* LaunchScreen.xib */; };
 		FE1A59851AAFE32600CF37AA /* NeuLocalTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FE1A59841AAFE32600CF37AA /* NeuLocalTests.m */; };
+		FE1A59BB1AB01C7D00CF37AA /* BEBAS___.TTF in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59A71AB01C7D00CF37AA /* BEBAS___.TTF */; };
+		FE1A59BC1AB01C7D00CF37AA /* BebasNeue.otf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59A81AB01C7D00CF37AA /* BebasNeue.otf */; };
+		FE1A59BD1AB01C7D00CF37AA /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59A91AB01C7D00CF37AA /* Roboto-Black.ttf */; };
+		FE1A59BE1AB01C7D00CF37AA /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59AA1AB01C7D00CF37AA /* Roboto-BlackItalic.ttf */; };
+		FE1A59BF1AB01C7D00CF37AA /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59AB1AB01C7D00CF37AA /* Roboto-Bold.ttf */; };
+		FE1A59C01AB01C7D00CF37AA /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59AC1AB01C7D00CF37AA /* Roboto-BoldItalic.ttf */; };
+		FE1A59C11AB01C7D00CF37AA /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59AD1AB01C7D00CF37AA /* Roboto-Italic.ttf */; };
+		FE1A59C21AB01C7D00CF37AA /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59AE1AB01C7D00CF37AA /* Roboto-Light.ttf */; };
+		FE1A59C31AB01C7D00CF37AA /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59AF1AB01C7D00CF37AA /* Roboto-LightItalic.ttf */; };
+		FE1A59C41AB01C7D00CF37AA /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B01AB01C7D00CF37AA /* Roboto-Medium.ttf */; };
+		FE1A59C51AB01C7D00CF37AA /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B11AB01C7D00CF37AA /* Roboto-MediumItalic.ttf */; };
+		FE1A59C61AB01C7D00CF37AA /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B21AB01C7D00CF37AA /* Roboto-Regular.ttf */; };
+		FE1A59C71AB01C7D00CF37AA /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B31AB01C7D00CF37AA /* Roboto-Thin.ttf */; };
+		FE1A59C81AB01C7D00CF37AA /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B41AB01C7D00CF37AA /* Roboto-ThinItalic.ttf */; };
+		FE1A59C91AB01C7D00CF37AA /* RobotoCondensed-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B51AB01C7D00CF37AA /* RobotoCondensed-Bold.ttf */; };
+		FE1A59CA1AB01C7D00CF37AA /* RobotoCondensed-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B61AB01C7D00CF37AA /* RobotoCondensed-BoldItalic.ttf */; };
+		FE1A59CB1AB01C7D00CF37AA /* RobotoCondensed-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B71AB01C7D00CF37AA /* RobotoCondensed-Italic.ttf */; };
+		FE1A59CC1AB01C7D00CF37AA /* RobotoCondensed-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B81AB01C7D00CF37AA /* RobotoCondensed-Light.ttf */; };
+		FE1A59CD1AB01C7D00CF37AA /* RobotoCondensed-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59B91AB01C7D00CF37AA /* RobotoCondensed-LightItalic.ttf */; };
+		FE1A59CE1AB01C7D00CF37AA /* RobotoCondensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE1A59BA1AB01C7D00CF37AA /* RobotoCondensed-Regular.ttf */; };
+		FE1A59D21AB01FE800CF37AA /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE1A59D11AB01FE800CF37AA /* LoginViewController.m */; };
+		FE1A59D61AB0329D00CF37AA /* CommonFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = FE1A59D51AB0329D00CF37AA /* CommonFunctions.m */; };
+		FE1A59D91AB033D000CF37AA /* SignUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE1A59D81AB033D000CF37AA /* SignUpViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +63,34 @@
 		FE1A597E1AAFE32600CF37AA /* NeuLocalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NeuLocalTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE1A59831AAFE32600CF37AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FE1A59841AAFE32600CF37AA /* NeuLocalTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NeuLocalTests.m; sourceTree = "<group>"; };
+		FE1A59A51AB0195000CF37AA /* Constants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
+		FE1A59A61AB01BF100CF37AA /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		FE1A59A71AB01C7D00CF37AA /* BEBAS___.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BEBAS___.TTF"; sourceTree = "<group>"; };
+		FE1A59A81AB01C7D00CF37AA /* BebasNeue.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BebasNeue.otf; sourceTree = "<group>"; };
+		FE1A59A91AB01C7D00CF37AA /* Roboto-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Black.ttf"; sourceTree = "<group>"; };
+		FE1A59AA1AB01C7D00CF37AA /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
+		FE1A59AB1AB01C7D00CF37AA /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		FE1A59AC1AB01C7D00CF37AA /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
+		FE1A59AD1AB01C7D00CF37AA /* Roboto-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Italic.ttf"; sourceTree = "<group>"; };
+		FE1A59AE1AB01C7D00CF37AA /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Light.ttf"; sourceTree = "<group>"; };
+		FE1A59AF1AB01C7D00CF37AA /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
+		FE1A59B01AB01C7D00CF37AA /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		FE1A59B11AB01C7D00CF37AA /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
+		FE1A59B21AB01C7D00CF37AA /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		FE1A59B31AB01C7D00CF37AA /* Roboto-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Thin.ttf"; sourceTree = "<group>"; };
+		FE1A59B41AB01C7D00CF37AA /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
+		FE1A59B51AB01C7D00CF37AA /* RobotoCondensed-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoCondensed-Bold.ttf"; sourceTree = "<group>"; };
+		FE1A59B61AB01C7D00CF37AA /* RobotoCondensed-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoCondensed-BoldItalic.ttf"; sourceTree = "<group>"; };
+		FE1A59B71AB01C7D00CF37AA /* RobotoCondensed-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoCondensed-Italic.ttf"; sourceTree = "<group>"; };
+		FE1A59B81AB01C7D00CF37AA /* RobotoCondensed-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoCondensed-Light.ttf"; sourceTree = "<group>"; };
+		FE1A59B91AB01C7D00CF37AA /* RobotoCondensed-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoCondensed-LightItalic.ttf"; sourceTree = "<group>"; };
+		FE1A59BA1AB01C7D00CF37AA /* RobotoCondensed-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoCondensed-Regular.ttf"; sourceTree = "<group>"; };
+		FE1A59D01AB01FE800CF37AA /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		FE1A59D11AB01FE800CF37AA /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		FE1A59D41AB0329D00CF37AA /* CommonFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommonFunctions.h; sourceTree = "<group>"; };
+		FE1A59D51AB0329D00CF37AA /* CommonFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommonFunctions.m; sourceTree = "<group>"; };
+		FE1A59D71AB033D000CF37AA /* SignUpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignUpViewController.h; sourceTree = "<group>"; };
+		FE1A59D81AB033D000CF37AA /* SignUpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignUpViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +114,8 @@
 		FE1A595C1AAFE32500CF37AA = {
 			isa = PBXGroup;
 			children = (
+				FE1A59D31AB0328A00CF37AA /* Common Funcitons */,
+				FE1A59A41AB0194500CF37AA /* Header Files */,
 				FE1A59671AAFE32500CF37AA /* NeuLocal */,
 				FE1A59811AAFE32600CF37AA /* NeuLocalTests */,
 				FE1A59661AAFE32500CF37AA /* Products */,
@@ -88,6 +141,7 @@
 				FE1A59721AAFE32500CF37AA /* Main.storyboard */,
 				FE1A59751AAFE32500CF37AA /* Images.xcassets */,
 				FE1A59771AAFE32500CF37AA /* LaunchScreen.xib */,
+				FE1A59CF1AB01FBF00CF37AA /* Login & Signup */,
 				FE1A59681AAFE32500CF37AA /* Supporting Files */,
 			);
 			path = NeuLocal;
@@ -96,6 +150,8 @@
 		FE1A59681AAFE32500CF37AA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FE1A59A61AB01BF100CF37AA /* PrefixHeader.pch */,
+				FE1A598F1AB0181C00CF37AA /* Fonts */,
 				FE1A59691AAFE32500CF37AA /* Info.plist */,
 				FE1A596A1AAFE32500CF37AA /* main.m */,
 			);
@@ -117,6 +173,61 @@
 				FE1A59831AAFE32600CF37AA /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FE1A598F1AB0181C00CF37AA /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FE1A59A71AB01C7D00CF37AA /* BEBAS___.TTF */,
+				FE1A59A81AB01C7D00CF37AA /* BebasNeue.otf */,
+				FE1A59A91AB01C7D00CF37AA /* Roboto-Black.ttf */,
+				FE1A59AA1AB01C7D00CF37AA /* Roboto-BlackItalic.ttf */,
+				FE1A59AB1AB01C7D00CF37AA /* Roboto-Bold.ttf */,
+				FE1A59AC1AB01C7D00CF37AA /* Roboto-BoldItalic.ttf */,
+				FE1A59AD1AB01C7D00CF37AA /* Roboto-Italic.ttf */,
+				FE1A59AE1AB01C7D00CF37AA /* Roboto-Light.ttf */,
+				FE1A59AF1AB01C7D00CF37AA /* Roboto-LightItalic.ttf */,
+				FE1A59B01AB01C7D00CF37AA /* Roboto-Medium.ttf */,
+				FE1A59B11AB01C7D00CF37AA /* Roboto-MediumItalic.ttf */,
+				FE1A59B21AB01C7D00CF37AA /* Roboto-Regular.ttf */,
+				FE1A59B31AB01C7D00CF37AA /* Roboto-Thin.ttf */,
+				FE1A59B41AB01C7D00CF37AA /* Roboto-ThinItalic.ttf */,
+				FE1A59B51AB01C7D00CF37AA /* RobotoCondensed-Bold.ttf */,
+				FE1A59B61AB01C7D00CF37AA /* RobotoCondensed-BoldItalic.ttf */,
+				FE1A59B71AB01C7D00CF37AA /* RobotoCondensed-Italic.ttf */,
+				FE1A59B81AB01C7D00CF37AA /* RobotoCondensed-Light.ttf */,
+				FE1A59B91AB01C7D00CF37AA /* RobotoCondensed-LightItalic.ttf */,
+				FE1A59BA1AB01C7D00CF37AA /* RobotoCondensed-Regular.ttf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
+		FE1A59A41AB0194500CF37AA /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				FE1A59A51AB0195000CF37AA /* Constants.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		FE1A59CF1AB01FBF00CF37AA /* Login & Signup */ = {
+			isa = PBXGroup;
+			children = (
+				FE1A59D01AB01FE800CF37AA /* LoginViewController.h */,
+				FE1A59D11AB01FE800CF37AA /* LoginViewController.m */,
+				FE1A59D71AB033D000CF37AA /* SignUpViewController.h */,
+				FE1A59D81AB033D000CF37AA /* SignUpViewController.m */,
+			);
+			name = "Login & Signup";
+			sourceTree = "<group>";
+		};
+		FE1A59D31AB0328A00CF37AA /* Common Funcitons */ = {
+			isa = PBXGroup;
+			children = (
+				FE1A59D41AB0329D00CF37AA /* CommonFunctions.h */,
+				FE1A59D51AB0329D00CF37AA /* CommonFunctions.m */,
+			);
+			name = "Common Funcitons";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +310,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE1A59CA1AB01C7D00CF37AA /* RobotoCondensed-BoldItalic.ttf in Resources */,
+				FE1A59C71AB01C7D00CF37AA /* Roboto-Thin.ttf in Resources */,
+				FE1A59CD1AB01C7D00CF37AA /* RobotoCondensed-LightItalic.ttf in Resources */,
+				FE1A59C41AB01C7D00CF37AA /* Roboto-Medium.ttf in Resources */,
+				FE1A59C01AB01C7D00CF37AA /* Roboto-BoldItalic.ttf in Resources */,
+				FE1A59CC1AB01C7D00CF37AA /* RobotoCondensed-Light.ttf in Resources */,
 				FE1A59741AAFE32500CF37AA /* Main.storyboard in Resources */,
+				FE1A59C31AB01C7D00CF37AA /* Roboto-LightItalic.ttf in Resources */,
+				FE1A59C51AB01C7D00CF37AA /* Roboto-MediumItalic.ttf in Resources */,
 				FE1A59791AAFE32500CF37AA /* LaunchScreen.xib in Resources */,
+				FE1A59C21AB01C7D00CF37AA /* Roboto-Light.ttf in Resources */,
+				FE1A59CE1AB01C7D00CF37AA /* RobotoCondensed-Regular.ttf in Resources */,
+				FE1A59CB1AB01C7D00CF37AA /* RobotoCondensed-Italic.ttf in Resources */,
+				FE1A59BB1AB01C7D00CF37AA /* BEBAS___.TTF in Resources */,
+				FE1A59BE1AB01C7D00CF37AA /* Roboto-BlackItalic.ttf in Resources */,
+				FE1A59C81AB01C7D00CF37AA /* Roboto-ThinItalic.ttf in Resources */,
+				FE1A59BC1AB01C7D00CF37AA /* BebasNeue.otf in Resources */,
+				FE1A59C91AB01C7D00CF37AA /* RobotoCondensed-Bold.ttf in Resources */,
 				FE1A59761AAFE32500CF37AA /* Images.xcassets in Resources */,
+				FE1A59C11AB01C7D00CF37AA /* Roboto-Italic.ttf in Resources */,
+				FE1A59C61AB01C7D00CF37AA /* Roboto-Regular.ttf in Resources */,
+				FE1A59BF1AB01C7D00CF37AA /* Roboto-Bold.ttf in Resources */,
+				FE1A59BD1AB01C7D00CF37AA /* Roboto-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +350,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE1A59D21AB01FE800CF37AA /* LoginViewController.m in Sources */,
 				FE1A59711AAFE32500CF37AA /* ViewController.m in Sources */,
+				FE1A59D91AB033D000CF37AA /* SignUpViewController.m in Sources */,
 				FE1A596E1AAFE32500CF37AA /* AppDelegate.m in Sources */,
 				FE1A596B1AAFE32500CF37AA /* main.m in Sources */,
+				FE1A59D61AB0329D00CF37AA /* CommonFunctions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -343,6 +477,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREFIX_HEADER = NeuLocal/PrefixHeader.pch;
 				INFOPLIST_FILE = NeuLocal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -353,6 +488,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREFIX_HEADER = NeuLocal/PrefixHeader.pch;
 				INFOPLIST_FILE = NeuLocal/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";

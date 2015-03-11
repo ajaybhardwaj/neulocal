@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Constants.h"
+#import "CommonFunctions.h"
 
-@interface SignUpViewController : UIViewController
+@interface SignUpViewController : UIViewController <UITextFieldDelegate> {
+    
+    UITextField *nameField,*emailField,*mobileField,*passwordField,*confirmPasswordField;
+    UIButton *registerButton;
+}
 
 @end
